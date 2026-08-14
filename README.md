@@ -23,40 +23,40 @@ unit)
 Domain Architecture (Logical Model)  
   
 Legal Entities  
-t_legal_entity 
-t_legal_entity_bank_account  
-t_legal_entity_activity  
+- t_legal_entity 
+- t_legal_entity_bank_account  
+- t_legal_entity_activity  
   
 Documents & Workflow  
-t_document  
-t_document_type 
-t_document_subtype  
-t_document_workflow  
+- t_document  
+- t_document_type 
+- t_document_subtype
+- t_document_workflow  
   
 Finance & Capital  
-t_bank_account 
-t_temporary_account  
-t_unit_payment  
-t_bill t_bill_item  
+- t_bank_account 
+- t_temporary_account  
+- t_unit_payment  
+- t_bill t_bill_item  
   
 Business Units  
-t_unit 
-t_unit_employee 
-t_unit_address 
-t_unit_activity  
-t_unit_process  
+- t_unit 
+- t_unit_employee 
+- t_unit_address 
+- t_unit_activity  
+- t_unit_process  
   
 Sales & Expenses  
-t_unit_sales 
-t_unit_sales_summary 
-t_unit_expense 
-t_unit_expense_summary  
+- t_unit_sales 
+- t_unit_sales_summary 
+- t_unit_expense 
+- t_unit_expense_summary  
   
 Assets & Licensing  
-t_instrument  
-t_instrument_type 
-t_instrument_subtype  
-t_product_license  
+- t_instrument  
+- t_instrument_type 
+- t_instrument_subtype  
+- t_product_license  
     
 What You Get  
   
