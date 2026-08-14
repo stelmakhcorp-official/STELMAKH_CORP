@@ -56,7 +56,25 @@ Domain documentation
 Installation guide  
 Commercial license  
 Production‑ready architecture  
-  
+
+Physical Database Structure (Visual Overview)
+
+The following visual files show the actual PostgreSQL structure included in the STELMAKH_CORP Business Core.
+
+Table Overview
+This screenshot displays all physical tables inside the architecture:
+
+table schema.png
+
+It demonstrates the scope of the system: administration, finance, legal entities, workflow, assets, units and capital modules.
+
+ERD Diagram
+The ERD shows how all domains are connected:
+
+ERD.png
+
+This diagram represents the complete relational structure of the business core.
+
   
 Installation  
 CREATE DATABASE stelmakh_corp;  
