@@ -184,3 +184,5 @@ Brand Manager & Owner
 Stelmakh© Corp™  
 Corporate Business Architecture for SQL  
 Email: StelmakhCorp@gmail.com  
+This contact is provided exclusively for licensing and purchase inquiries.
+No technical support, customization or adaptation services are offered.
