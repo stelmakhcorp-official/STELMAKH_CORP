@@ -28,7 +28,8 @@ t_legal_entity_bank_account
 t_legal_entity_activity  
   
 Documents & Workflow  
-t_document  t_document_type 
+t_document  
+t_document_type 
 t_document_subtype  
 t_document_workflow  
   
