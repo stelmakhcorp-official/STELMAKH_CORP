@@ -104,7 +104,7 @@ Stelmakh© Corp™ <br>
 
 Корпоративная бизнес‑архитектура для SQL <br>
 
-Email: StelmakhCorp@gmail.com
+Email: StelmakhCorp@mail.ru
 
 Контакт используется только для вопросов лицензирования и покупки.
 
