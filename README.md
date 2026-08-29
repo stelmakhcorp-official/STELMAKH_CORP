@@ -51,6 +51,8 @@ STELMAKH_CORP предназначена для использования на 
 Полная диаграмма сущностей и связей:
 <img width="807" height="4297" alt="ERD" src="https://github.com/user-attachments/assets/cc8ae0d7-79ad-4c8b-80f7-245353fdba3b" />
 
+
+
 Схема таблиц
 Структура таблиц архитектуры:
 <img width="468" height="597" alt="table schema" src="https://github.com/user-attachments/assets/8f1c9203-3e8d-43fc-832c-8b8e10a0307d" />
