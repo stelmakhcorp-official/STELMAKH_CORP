@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9f63fd7f-f2e7-4269-99ee-41f88d4f7197" alt="Stelmakh© Corp™ Logo" width="300">
-</p>
+<img width="1024" height="1024" alt="11  Stelmakh© Corp - Logo" src="https://github.com/user-attachments/assets/22cedd8f-c1af-4d49-ad92-33e0a7cb56ec" />
 
 
 <h1 align="center">STELMAKH_CORP — Корпоративное бизнес‑ядро для PostgreSQL</h1>
