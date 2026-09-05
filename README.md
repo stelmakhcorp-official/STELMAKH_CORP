@@ -1,13 +1,17 @@
 <img width="1024" height="1024" alt="11  Stelmakh© Corp - Logo" src="https://github.com/user-attachments/assets/22cedd8f-c1af-4d49-ad92-33e0a7cb56ec" />
 
 
-<h1 align="center">STELMAKH_CORP — Корпоративное бизнес‑ядро для PostgreSQL</h1>
+<h1 align="center">Независимая интеграционная компания<br>
+Stelmakh© Corp™</h1>
 
 <h2 align="center">
-  Детерминированная архитектура корпоративного уровня<br>
-  Независимая интеграционная компания<br>
-  <align="center">Stelmakh© Corp™
+    Детерминированная архитектура корпоративного уровня
 </h2>
+
+<h2 align="center">
+  STELMAKH_CORP — Корпоративное бизнес‑ядро для PostgreSQL
+</h2>
+
 
 🏛 О продукте
 STELMAKH_CORP — это корпоративная архитектура данных для PostgreSQL, разработанная для компаний, холдингов и интеграторов, которым требуется единая, строгая и предсказуемая модель корпоративных данных.
