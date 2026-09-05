@@ -71,6 +71,8 @@ STELMAKH_CORP предназначена для использования на 
 - Abbyy fine reader <br>
 - Dbeaver enterprise<br>
 - postgresql<br>
+- база данных <br>
+
 <h2 align="center">А так же в комплекте поставки включаются:</h2>
 - Паспорт архитектуры <br>
 - Описание продукта <br>
