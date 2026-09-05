@@ -159,7 +159,7 @@ stelmakh_corp/ <br>
 ├── table schema.png   # Скриншот таблиц базы данных <br>
 └── ERD.png            # Высокоуровневая диаграмма (без SQL)
 
-Автор <br>
+<h2 align="center">Автор </h2><br>
 
 Николай Стельмах <br>
 
